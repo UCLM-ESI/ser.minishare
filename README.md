@@ -19,5 +19,5 @@ Setup for other OS hosts
   - Choose the `.ova` file
 - Configure DHCP server for internal network "intnet" if required
 - Obtain VM id with `VBoxManage list vms`
-- Write vm id in file "/id" in vagrant config file for this project
+- Write vm id in file `/id` in vagrant config file for this project
 - Run `vagrant up`

@@ -1,0 +1,8 @@
+---
+- hosts: all
+  become: true
+  tasks:
+    - name: locale es
+      locale_gen:
+        name: es_ES.UTF-8
+        state: present

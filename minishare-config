@@ -1,0 +1,13 @@
+Server port:                   80
+Max. number of conn,:           1
+
+Number of random chars:         0
+Fixed domain:              -empty-
+Index page path:                /
+Index page title:       MiniShare
+
+MOTD:                    motd.txt
+Log file:                 log.txt
+Index page CSS:     minishare.css
+
+Start minimized:    -not-checked-

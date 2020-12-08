@@ -18,7 +18,7 @@ Vagrant.configure("2") do |config|
   end
 
   config.vm.define "WXP" do |node|
-    node.vm.box = "add id to .vagrant/WXP/virtualbox/id"
+    node.vm.box = "set vm id at .vagrant/WXP/virtualbox/id"
     node.vm.guest = :windows
     node.vm.network "private_network", type: "dhcp", virtualbox__intnet: "intnet"
     node.vm.synced_folder ".", "/vagrant", automount: true

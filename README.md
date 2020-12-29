@@ -5,6 +5,7 @@ Playing with the CVE-2004-2271
 Setup for GNU/Linux hosts (recommended)
 ---------------------------------------
 
+- Clone
 - Download `WXP-minishare-vagrant.ova` and save in this directory.
 - Run `setup.sh`
 - Run `vagrant up`
@@ -13,6 +14,7 @@ Setup for GNU/Linux hosts (recommended)
 Setup for other OS hosts
 ------------------------
 
+- Clone
 - Download "WXP-minishare-vagrant.ova" and save in this directory.
 - Open "virtualbox"
 - Import appliance

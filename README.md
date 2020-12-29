@@ -7,8 +7,7 @@ Setup for GNU/Linux hosts (recommended)
 
 - Clone
 - Download `WXP-minishare-vagrant.ova` and save in this directory.
-- Run `setup.sh`
-- Run `vagrant up`
+- Run `make`
 
 
 Setup for other OS hosts
